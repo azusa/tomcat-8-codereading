@@ -1,1 +1,1 @@
-svn checkout http://svn.apache.org/repos/asf/tomcat/tc7.0.x/tags/TOMCAT_7_0_47/ src
+svn checkout http://svn.apache.org/repos/asf/tomcat/tags/TOMCAT_8_0_0_RC5/ src
