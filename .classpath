@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/jasper-el.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/jasper.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/jsp-api.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/servlet-api.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/tomcat-api.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/tomcat-coyote.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/tomcat-util.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/tomcat7-websocket.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/websocket-api.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/el-api.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/annotations-api.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/catalina-ant.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/catalina-ha.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/catalina-tribes.jar" sourcepath="src/java"/>
+	<classpathentry kind="lib" path="apache-tomcat-7.0.47/lib/catalina.jar" sourcepath="src/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
